@@ -12,17 +12,15 @@ This repository emphasizes **learning from first principles**: deriving cost fun
 
 ---
 
-## 🧭 Roadmap & Completed Modules
+## 🧭 Learning Journey Overview
 
-```mermaid
-flowchart LR
-    A[Data Collection & Ingestion] --> B[EDA & Statistical Analysis]
-    B --> C[Preprocessing & Feature Engineering]
-    C --> D[Optimization & Gradient Descent]
-    D --> E[Regression Suite & Assumptions]
-    E --> F[Regularization: Ridge, Lasso, ElasticNet]
-    F --> G[Production Pipelines & Projects]
-```
+1. **Data Collection & Ingestion** — Web scraping, REST APIs, and robust CSV handling
+2. **Exploratory Data Analysis (EDA)** — Distributions, bivariate relationships, outlier detection, and sports analytics
+3. **Preprocessing & Feature Engineering** — Encoding, function transformations, PCA, and Scikit-Learn pipelines
+4. **Optimization & Gradient Descent** — Math derivations and scratch implementations of Batch, SGD, and Mini-Batch GD
+5. **Regression Algorithms & Diagnostics** — SLR, MLR (matrix formulation), Polynomial Regression, metrics, and assumptions
+6. **Regularization & Shrinkage** — Ridge (scratch, N-D, GD), Lasso (geometric sparsity), and ElasticNet
+7. **Production Workflows & Projects** — TMDB Movie Recommender System and reusable prediction pipelines
 
 ---
 
